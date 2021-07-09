@@ -14,13 +14,13 @@ npm install --global yarn
 yarn install
 ```
 
-### Ejecutas el proyecto con el siguiente comando:
+### Ejecutar el proyecto con el siguiente comando:
 ```
 yarn serve
 ```
 ### Fotos del proyecto:
-<img src="./assets/readme/front1.png"> 
-<img src="./assets/readme/front1.png"> 
+<img src="assets/readme/front1.png"> 
+<img src="assets/readme/front1.png"> 
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
